@@ -1,4 +1,4 @@
-# a template containing all the boilerplate needed for a svelte-kit pwa web application
+# A template containing all the boilerplate needed for a svelte-kit pwa web application
 
 Made after https://github.com/tretapey/svelte-pwa using the latest (at the time of writing) version of sveltekit.
 
